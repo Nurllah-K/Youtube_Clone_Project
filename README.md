@@ -11,3 +11,6 @@
 KAYNAKLAR
 
 -API :https://rapidapi.com/ytjar/api/yt-api
+
+Youtube Clone Project Gif:
+<img src="/youtubecloneGİF.gif"/>
